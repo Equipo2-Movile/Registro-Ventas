@@ -6,8 +6,8 @@
     <string name="ingresar">Ingresar</string>
     <string name="todo">TODO</string>
     <string name="opciones_de_usuario">Opciones de Usuario</string>
-    <string name="facturacion">Facturacion</string>
-    <string name="agregar_produto">Agregar Produto</string>
+    <string name="facturacion">Registrar Venta</string>
+    <string name="agregar_produto">Agregar Venta</string>
     <string name="formulario_registro_productos">Formulario Registro Productos</string>
     <string name="identificacion">Identificacion</string>
     <string name="precio_unidad">Precio Unidad</string>
@@ -15,8 +15,7 @@
     <string name="listar_todos_los_productos">Listar Todos los productos</string>
     <string name="todos_nustros_productos">Todos Nuestros Productos</string>
     <string name="factura">Factura</string>
-    <string name="visualizar_factura">Visualizar Ventas
-    </string>
+    <string name="visualizar_factura">Visualizar Ventas   </string>
     <string name="codigo_del_producto">Codigo Del Producto</string>
     <string name="cantidad">Cantidad</string>
 </resources>
