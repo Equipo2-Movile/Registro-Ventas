@@ -21,13 +21,19 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.023" />
 
-    <ListView
-        android:id="@+id/lstvTodosLosProductos"
-        android:layout_width="409dp"
-        android:layout_height="640dp"
+    <LinearLayout
+        android:layout_width="382dp"
+        android:layout_height="614dp"
+        android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.967" />
+        app:layout_constraintTop_toBottomOf="@+id/txvProductos">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rcvListadoProductos"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
