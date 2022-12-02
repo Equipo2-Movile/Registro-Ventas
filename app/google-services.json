@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "445305344302",
-    "project_id": "productos-crud-90dfe",
-    "storage_bucket": "productos-crud-90dfe.appspot.com"
+    "project_number": "608862236177",
+    "project_id": "ventas-tienda-de-ropa",
+    "storage_bucket": "ventas-tienda-de-ropa.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:445305344302:android:41d7c9b8c4aebae954eabf",
+        "mobilesdk_app_id": "1:608862236177:android:ed15946e94552441040bb0",
         "android_client_info": {
           "package_name": "com.example.facturacion"
         }
       },
       "oauth_client": [
         {
-          "client_id": "445305344302-bmm4dg3033bs5t5jo4jhktsnsj9uv1a8.apps.googleusercontent.com",
+          "client_id": "608862236177-peg45hpiu67121j7o79c7t6bvsmifh93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facturacion",
+            "certificate_hash": "cbc4e1f560709bd4e9c1fbc2b557b844ccb92a9f"
+          }
+        },
+        {
+          "client_id": "608862236177-fdvcvf9n1cuc0bregi06gur36cia3tse.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAEGRmgQwiXB0eL3vIRfuJfhVX3Axbil24"
+          "current_key": "AIzaSyAlokrbw1Az1M6ZXY6TlVnW2Vx66KHcKFQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "445305344302-bmm4dg3033bs5t5jo4jhktsnsj9uv1a8.apps.googleusercontent.com",
+              "client_id": "608862236177-fdvcvf9n1cuc0bregi06gur36cia3tse.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
